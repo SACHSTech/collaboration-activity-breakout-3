@@ -1,8 +1,8 @@
 # Brian Swartwood
 
-496 Cedar Street
-Little Rock, AR 72210
-(222)-708-8600
+496 Cedar Street <br>
+Little Rock, AR 72210 <br>
+(222)-708-8600 <br>
 b.swartwood@tmail.com
 
 ## OBJECTIVE
